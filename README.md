@@ -4,7 +4,7 @@ A simple crud app with React Hooks (+Axios) consuming a simple Nodejs api server
 ## Screenshot
 ![alt text](https://github.com/arturguitelar/simple-crud-react-nodejs/blob/master/simple-crud-app-screenshot-frontend.png)
 
-## frontend
+## React frontend
 
 | dependencies | links |
 | ------ | ----- |
@@ -22,7 +22,7 @@ Port: http://localhost:3000
 
 <br>
 
-## backend
+## NodeJs backend
 
 | dependencies | links |
 | ------ | ----- |
