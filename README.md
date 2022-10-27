@@ -1,4 +1,4 @@
-# Simple Crud
+# React and Node Crud
 A simple crud app with React Hooks (+Axios) consuming a simple Nodejs api server (+Sequelize Sqlite).
 
 ## Screenshot
