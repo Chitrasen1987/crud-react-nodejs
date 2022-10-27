@@ -38,7 +38,7 @@ Port: http://localhost:3000
 
 ### `npm start`
 Start api server.
-Port: http://localhost:3333
+Port: http://localhost:4000
 
 <br>
 
